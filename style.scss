@@ -49,6 +49,9 @@ table {
 table, th, td {
     border: 1px solid black;
 }
+th {
+    text-align: left;
+}
 
 h1 {
   font-size: 40px;
