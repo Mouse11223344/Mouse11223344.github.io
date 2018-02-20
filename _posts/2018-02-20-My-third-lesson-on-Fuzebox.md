@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My first lesson on Fuzebox</td>
+    <td>My third lesson on Fuzebox</td>
     <td>Date</td>
     <td>29/01/18</td>
   </tr>
