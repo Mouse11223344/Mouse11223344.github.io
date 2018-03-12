@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My Sixth lesson on Fuzebox</td>
+    <td>My Seventh lesson on Fuzebox</td>
     <td>Date</td>
-    <td>05/03/18</td>
+    <td>12/03/18</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We have been doing Fuse Boxes for 5 weeks before this and we have made some good progress.</td>
+    <td>We have been doing Fuse Boxes for 6 weeks before this and we have made some good progress.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To reach half way through stage 1.4</td>
+    <td>To finish through stage 1.4</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>No we didn't even manage to start 1.4</td>
+    <td>Yes we managed to completely finish it.</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The problem with learning on this lesson is that we didn't do anything really. What happened was the Monitor never seemed to be able to connect to the Fuze box. Every time it just said that there was no HTML signal and then we had to keep changing monitor’s and we were never able to get started. We were then told off for not doing the work but we were trying the whole lesson. It just didn’t work.</td>
+    <td>Of course this time as usual we learned from the booklet and we were able to get significant work done. At one point since we are a bit behind my partner and I agreed that I should just copy a bit of the code down by myself and so we did that however not for very long as this would have affected his learning. The strategy that we both used well was listening and agreement because we were able to make great progress and get a lot further.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Well everything limited my learning this lesson as the Fuze box just didn’t respond to anything we did. We checked with a lot of other people working near us and we did have the exact same setup than them. After changing computer's many times we went to Mr Ampakorsa and even he didn’t manage to get it fixed. We even got a new HTML cable and that still didn’t work and we even changed Fuze boxes. I don’t know what was wrong with it.</td>
+    <td>Something that did limit my learning was the fact that we were so far behind because of difficulties with the Fuze boxes and just the fact we were trying to do it quickly but it isn't easy for us. Since we made good progress in this lesson though we are able to move forward onto the end of stage 1 and then move onto stage 2 so overall it’s going fine now and I think we are going to get further in the next lesson.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will change the fact that the Fuze box didn’t work as this is the 2nd time it has happened and it hasn’t been our fault, this is also hindering our working and we’re not able to make much good progress with our learning. We were also blamed for not setting up quick enough but we were honestly trying as hard as we could and we were doing everything we knew. It just didn’t seem to work out for us.</td>
+    <td>The thing I’ll change for next time is the fact that we did have to change computer once to get the Fuze working and we did have a bit of trouble with saving our work however that just ended up being that we were not saving the file in the correct USB file s we couldn’t access but that’s all fixed now. There isn't much else I would change for this lesson I think it went really well. Also MR Ampah korsah wasn’t here for this lesson so he didn’t actually see our progress.</td>
   </tr>
 </table>
 
