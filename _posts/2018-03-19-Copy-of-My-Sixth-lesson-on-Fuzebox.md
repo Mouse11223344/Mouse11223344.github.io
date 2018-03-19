@@ -1,5 +1,5 @@
 ---
-title: Copy of My Sixth lesson on Fuzebox
+title: My seventh lesson on Fuzebox
 layout: post
 author: milen.kortman
 permalink: /copy-of-my-sixth-lesson-on-fuzebox/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My Eighth lesson on Fuzebox</td>
+    <td>My Seventh lesson on Fuzebox</td>
     <td>Date</td>
     <td>19/03/18</td>
   </tr>
